@@ -1,0 +1,11 @@
+page_id,html_exists,pdf_exists,viewport_exists,fullpage_exists,url,all_zero,at_least_one_not_all,all_one
+1,1,1,1,1,https://www.tum.de/,0,0,1
+2,1,1,1,1,https://www.tum.de/ueber-die-tum,0,0,1
+3,1,1,1,1,https://www.tum.de/forschung,0,0,1
+4,1,1,1,1,https://www.tum.de/innovation/entrepreneurship,0,0,1
+5,1,1,1,1,https://www.tum.de/community/globales-netzwerk,0,0,1
+6,1,1,1,1,https://www.tum.de/ueber-die-tum/karriere-und-jobs,0,0,1
+7,1,1,1,1,https://www.tum.de/ueber-die-tum/daten-und-fakten/auszeichnungen-und-ehrungen,0,0,1
+8,1,1,1,1,https://www.tum.de/ueber-die-tum/kontakt-und-anfahrt,0,0,1
+9,1,1,1,1,https://www.tum.de/aktuelles/alle-meldungen,0,0,1
+10,1,1,1,1,https://www.tum.de/community/campusleben,0,0,1
