@@ -16,7 +16,7 @@ def main():
     parser.add_argument('--html', action='store_true', default=True, help='Perform HTML scrape (default: True)')
     parser.add_argument('--pdf', action='store_true', default=False, help='Perform PDF scrape (default: False)')
     parser.add_argument('--viewport_screenshot', action='store_true', default=False, help='Take viewport screenshot (default: False)')
-    parser.add_argument('--full_page_screenshot', action='store_true', default=True, help='Take full page screenshot (default: True)')
+    parser.add_argument('--full_page_screenshot', action='store_true', default=False, help='Take full page screenshot (default: True)')
     parser.add_argument('--validation', action='store_true', default=False, help='Calculate statistics of webscrapting task')
     args = parser.parse_args()
 
