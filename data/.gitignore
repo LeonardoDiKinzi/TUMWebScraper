@@ -1,0 +1,8 @@
+# Ignore directories under data/inputs
+data/inputs/*
+
+# Ignore specific directories under data/outputs
+data/outputs/FullPage_Screenshots/*
+data/outputs/HTML/*
+data/outputs/PDF/*
+data/outputs/Viewport_Screenshots/*

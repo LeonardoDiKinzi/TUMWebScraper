@@ -1,0 +1,1 @@
+python src/main.py --input_file "data\inputs\Landing_pages.csv" --chrome_driver "drivers\chromedriver_115.exe" --start 10 --end 20 --html --pdf --full_page_screenshot
